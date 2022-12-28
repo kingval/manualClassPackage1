@@ -12,6 +12,6 @@ public class ManualClassWeek1 {
                 "* Qualifications of a tester \n" +
                 "* What is Manual Testing?\n" +
                 "* SDLC \n" +
-                "* STLC");
+                "* STLC - udpate");
     }
 }
